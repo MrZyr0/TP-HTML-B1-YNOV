@@ -6,3 +6,4 @@ Basé sur une maquette (format psd) nous avions à l'intégrer.
 
 
 ## La maquette
+!(Maquette.jpg)[https://raw.githubusercontent.com/MrZyr0/TP-HTML-B1-YNOV/master/Ressources/Maquette/Maquette.jpg]
